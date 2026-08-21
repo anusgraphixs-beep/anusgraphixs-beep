@@ -1,4 +1,4 @@
-About Me
+**About Me**
 
 Currently working on
 Building responsive, modern web applications using HTML, CSS, JavaScript, and React.js.
