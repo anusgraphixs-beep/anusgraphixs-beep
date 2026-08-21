@@ -1,5 +1,22 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>Responsive and modern web development projects using HTML, CSS, JavaScript, and React.js.<br><br>👯 I’m looking to collaborate on<br>Front-end web development projects, portfolio websites, landing pages, and modern UI designs.<br><br>🤝 I’m looking for help with<br>Advanced React.js concepts, backend integration, and full-stack development.<br><br>🌱 I’m currently learning<br>JavaScript ES6, React.js, responsive web design, and modern web animations.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, responsive layouts, portfolio websites, and front-end development.<br><br>⚡ Fun fact<br>I love turning creative ideas into fully responsive and interactive websites.
+About Me
+
+Currently working on
+Building responsive, modern web applications using HTML, CSS, JavaScript, and React.js.
+
+Open to collaborating on
+Front-end development projects, portfolio websites, landing pages, and modern UI/UX designs.
+
+Looking for guidance on
+Advanced React.js concepts, backend integration, and full-stack development.
+
+Currently learning
+JavaScript (ES6+), React.js, responsive web design, and modern web animations.
+
+Ask me about
+HTML, CSS, JavaScript, responsive layouts, portfolio websites, and front-end development.
+
+Fun fact
+I enjoy turning creative ideas into fully responsive, interactive web experiences.
 
 
 ## 🌐 Socials:
