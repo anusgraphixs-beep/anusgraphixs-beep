@@ -1,35 +1,162 @@
-**About Me**
+<!-- ========================= HEADER ========================= -->
 
-Currently working on
-Building responsive, modern web applications using HTML, CSS, JavaScript, and React.js.
+<h1 align="center">Hey 👋, I'm Anas Graphixs</h1>
 
-Open to collaborating on
-Front-end development projects, portfolio websites, landing pages, and modern UI/UX designs.
+<h3 align="center">
+🎨 Graphic Designer • 🎯 UI/UX Designer • 💻 Frontend Developer
+</h3>
 
-Looking for guidance on
-Advanced React.js concepts, backend integration, and full-stack development.
+<p align="center">
+  I design visuals, create interfaces, and build modern web experiences.
+</p>
 
-Currently learning
-JavaScript (ES6+), React.js, responsive web design, and modern web animations.
-
-Ask me about
-HTML, CSS, JavaScript, responsive layouts, portfolio websites, and front-end development.
-
-Fun fact
-I enjoy turning creative ideas into fully responsive, interactive web experiences.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anus-graphixs786) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anusgraphixs-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anusgraphixs-beep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anusgraphixs-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anusgraphixs-beep&label=Profile%20Views&color=00bfff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anusgraphixs-beep?label=Followers&style=flat&color=00bfff" alt="GitHub Followers" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anusgraphixs-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a creative designer and frontend developer who enjoys turning ideas into clean, modern, and responsive digital experiences.
+
+My work combines **visual design, UI/UX, branding, and frontend development**. I like creating websites that not only look good but also feel smooth and easy to use.
+
+* 🎨 Graphic Design & Branding
+* 🖥️ UI/UX Design
+* 💻 Frontend Development
+* ⚛️ React.js Development
+* 📱 Responsive Web Design
+* ✨ Modern Web Interfaces & Animations
+* 🔧 Always learning and building new things
+
+---
+
+## 🔭 Currently Working On
+
+Building modern and responsive websites using **HTML, CSS, JavaScript, React.js, and modern frontend tools**.
+
+## 🤝 Open to Collaborating On
+
+* Frontend Development Projects
+* Portfolio Websites
+* Landing Pages
+* UI/UX Projects
+* Branding & Graphic Design
+* Creative Web Projects
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* React.js
+* Modern UI/UX
+* Responsive Web Development
+* Frontend Animations
+* Backend & Full-Stack Development
+
+## 💬 Ask Me About
+
+**HTML • CSS • JavaScript • React.js • UI/UX • Figma • Graphic Design • Photoshop • Illustrator • Responsive Websites**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&perline=10" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=10" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=10" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🏋️ Iron Beast Gym
+
+A modern and responsive gym website featuring a bold dark theme, premium classes, trainers, pricing, gym facilities, and 24/7 access.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🐾 SharePet
+
+A UI/UX project focused on creating a simple and friendly experience for pet-related services and interactions.
+
+**Design:** Figma • UI/UX
+
+### 💼 Personal Portfolio
+
+A modern portfolio website combining my work in **Graphic Design, UI/UX, and Frontend Development**.
+
+**Tech:** React.js • CSS • JavaScript
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anusgraphixs-beep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=anusgraphixs-beep&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusgraphixs-beep&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusgraphixs-beep&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anusgraphixs-beep/anusgraphixs-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anus-graphixs786">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anusgraphixs-beep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+✨ Designing Ideas • Building Experiences • Learning Every Day ✨
+</h3>
+
+<p align="center">
+  <b>Let's create something awesome together! 🚀</b>
+</p>
