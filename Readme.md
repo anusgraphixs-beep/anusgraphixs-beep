@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hey 👋, I'm Anas Graphixs</h1>
+<h1 align="center">Hey 👋, I'm Syed Anus Ali</h1>
 
 <h3 align="center">
 🎨 Graphic Designer • 🎯 UI/UX Designer • 💻 Frontend Developer
