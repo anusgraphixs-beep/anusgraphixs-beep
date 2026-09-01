@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Syed Anus Ali</h1>
 
 <h3 align="center">
-🎨 Graphic Designer • 🎯 UI/UX Designer • 💻 Frontend Developer
+Graphic Designer •  UI/UX Designer •  Frontend Developer
 </h3>
 
 <p align="center">
@@ -17,27 +17,27 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a creative designer and frontend developer who enjoys turning ideas into clean, modern, and responsive digital experiences.
 
 My work combines **visual design, UI/UX, branding, and frontend development**. I like creating websites that not only look good but also feel smooth and easy to use.
 
-* 🎨 Graphic Design & Branding
-* 🖥️ UI/UX Design
-* 💻 Frontend Development
-* ⚛️ React.js Development
-* 📱 Responsive Web Design
-* ✨ Modern Web Interfaces & Animations
-* 🔧 Always learning and building new things
+*  Graphic Design & Branding
+*  UI/UX Design
+*  Frontend Development
+*  React.js Development
+*  Responsive Web Design
+*  Modern Web Interfaces & Animations
+*  Always learning and building new things
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 Building modern and responsive websites using **HTML, CSS, JavaScript, React.js, and modern frontend tools**.
 
-## 🤝 Open to Collaborating On
+##  Open to Collaborating On
 
 * Frontend Development Projects
 * Portfolio Websites
@@ -46,7 +46,7 @@ Building modern and responsive websites using **HTML, CSS, JavaScript, React.js,
 * Branding & Graphic Design
 * Creative Web Projects
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Advanced JavaScript
 * React.js
@@ -55,33 +55,33 @@ Building modern and responsive websites using **HTML, CSS, JavaScript, React.js,
 * Frontend Animations
 * Backend & Full-Stack Development
 
-## 💬 Ask Me About
+##  Ask Me About
 
 **HTML • CSS • JavaScript • React.js • UI/UX • Figma • Graphic Design • Photoshop • Illustrator • Responsive Websites**
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&perline=10" />
 </p>
 
-### 🎨 Design
+###  Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=10" />
 </p>
 
-### 🗄️ Backend & Database
+###  Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=10" />
 </p>
 
-### 🔧 Tools
+###  Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" />
@@ -89,21 +89,20 @@ Building modern and responsive websites using **HTML, CSS, JavaScript, React.js,
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-### 🏋️ Iron Beast Gym
+###  Amazon Clone
 
-A modern and responsive gym website featuring a bold dark theme, premium classes, trainers, pricing, gym facilities, and 24/7 access.
-
+This Amazon Clone is a responsive e-commerce website built to recreate the look, layout, and basic shopping experience of a modern online marketplace. I developed this project to improve my frontend development skills and gain practical experience by working on a real-world style web application.
 **Tech:** HTML • CSS • JavaScript
 
-### 🐾 SharePet
+###  SharePet
 
 A UI/UX project focused on creating a simple and friendly experience for pet-related services and interactions.
 
 **Design:** Figma • UI/UX
 
-### 💼 Personal Portfolio
+###  Personal Portfolio
 
 A modern portfolio website combining my work in **Graphic Design, UI/UX, and Frontend Development**.
 
@@ -111,7 +110,7 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anusgraphixs-beep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
@@ -124,7 +123,7 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusgraphixs-beep&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
@@ -132,7 +131,7 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 
 ---
 
-# 🐍 My Contribution Snake
+# My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anusgraphixs-beep/anusgraphixs-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -140,7 +139,7 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anus-graphixs786">
@@ -154,10 +153,10 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 ---
 
 <h3 align="center">
-✨ Designing Ideas • Building Experiences • Learning Every Day ✨
+ Designing Ideas • Building Experiences • Learning Every Day 
 </h3>
 
 <p align="center">
-  <b>Let's create something awesome together! 🚀</b>
+  <b>Let's create something awesome together! </b>
 </p>
 
