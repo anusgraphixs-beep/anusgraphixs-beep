@@ -114,8 +114,8 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anusgraphixs-beep&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusgraphixs-beep&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anusgraphixs-beep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=anusgraphixs-beep&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -160,3 +160,4 @@ A modern portfolio website combining my work in **Graphic Design, UI/UX, and Fro
 <p align="center">
   <b>Let's create something awesome together! 🚀</b>
 </p>
+
